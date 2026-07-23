@@ -14,7 +14,7 @@ Para rodar o projeto localmente na sua máquina, certifique-se de ter o Node.js 
 
 1. Clone este repositório (ou baixe a pasta):
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/ThierrySant0007/Memory-cache-cleaner.git
    ```
 
 2. Acesse a pasta do projeto:
